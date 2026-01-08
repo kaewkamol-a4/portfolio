@@ -14,6 +14,47 @@ pnpm dev
 bun dev
 ```
 
+# Personal Portfolio Website
+
+A personal portfolio website built to showcase my frontend skills and projects.
+This project simulates a real-world frontend workflow using modern technologies.
+
+## 🔗 Live Demo
+https://your-vercel-url.vercel.app
+
+## 📌 About the Project
+This is a personal project created to practice and demonstrate my skills as a Junior Frontend Developer.
+The website includes a home page, projects showcase, and a contact form with basic validation.
+
+## 🛠 Tech Stack
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+- Git & GitHub
+- Vercel (Deployment)
+
+## ✨ Features
+- Responsive layout (mobile & desktop)
+- Reusable components
+- Projects displayed using dynamic data mapping
+- Hover animations for better UX
+- Contact form with basic validation
+- Deployed with Vercel
+
+## 📚 What I Learned
+- Structuring a frontend project using Next.js App Router
+- Creating reusable React components
+- Managing data separately from UI
+- Using Tailwind CSS for responsive design
+- Git workflow and deployment process
+
+## ▶️ Getting Started
+```bash
+npm install
+npm run dev
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
