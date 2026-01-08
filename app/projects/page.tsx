@@ -1,4 +1,5 @@
 import ProjectCard from "@/components/Projectcard";
+// import { projects } from "@/data/projects";
 
 const projects = [
   {

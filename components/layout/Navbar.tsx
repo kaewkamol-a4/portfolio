@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { Menu, X } from "lucide-react";
+
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -11,7 +13,7 @@ export default function Navbar() {
       <nav className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="text-xl font-bold">
-          MyPortfolio
+          Kan Kaewamol
         </Link>
 
         {/* Desktop Menu */}

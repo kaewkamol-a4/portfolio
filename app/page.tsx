@@ -4,8 +4,8 @@ import { ArrowRight } from "lucide-react";
 export default function HomePage() {
   return (
     <section className="mx-auto max-w-6xl px-6 py-24">
-      <h1 className="text-4xl md:text-5xl font-bold mb-6">
-        Hi, I’m Kan 👋
+      <h1 className="text-4xl md:text-4xl font-bold mb-6">
+        Hi, I’m Kan 👋 Wellcome to My PortFoLiO
       </h1>
 
       <p className="text-gray-600 text-lg max-w-2xl mb-8">
