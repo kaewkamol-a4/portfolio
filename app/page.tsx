@@ -562,8 +562,6 @@ export default function Page() {
           <p style={{ fontSize: '1rem', color: 'rgba(255,255,255,0.4)', marginBottom: '4rem', lineHeight: 1.9 }}>Open to opportunities in UX/UI Design, Graphic Design, and Frontend Development.</p>
           <div style={{ maxWidth: '520px', margin: '0 auto 4rem' }}>
             {[
-              { l: 'Email', v: 'kankaewkamol.a4@gmail.com', href: 'mailto:kankaewkamol.a4@gmail.com' },
-              { l: 'Phone', v: '097-048-6576', href: 'tel:0970486576' },
               { l: 'Location', v: 'Pathum Thani, Thailand', href: undefined },
             ].map(item => (
               <div key={item.l} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '1.25rem 0', borderBottom: '1px solid rgba(255,255,255,0.07)' }}>
